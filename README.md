@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/banner.png" width="80%" />
+</p>
+
+
+
+
 <p align="center">🤖 Agente de IA Local com Ollama + Mistral</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/cleitondss81/agente-ia-ollama/main/assets/banner.png" width="80%" alt="Banner do Agente IA"> </p> <p align="center"> <strong>Agente de Inteligência Artificial totalmente offline usando Ollama + Mistral + LangChain</strong> </p> <p align="center"> <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Ollama-Local%20LLM-black?logo=ollama" /></a> <a href="#"><img src="https://img.shields.io/badge/LangChain-LCEL-green?logo=chainlink" /></a> <a href="#"><img src="https://img.shields.io/github/license/cleitondss81/agente-ia-ollama" /></a> <a href="#"><img src="https://img.shields.io/github/last-commit/cleitondss81/agente-ia-ollama" /></a> </p>
 📑 Tabela de Conteúdo
