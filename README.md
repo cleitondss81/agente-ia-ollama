@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/UBxOLL.png" width="80%" />
+  <img src="assets/ubuntuxollama.png" width="80%" />
 </p>
 
 
